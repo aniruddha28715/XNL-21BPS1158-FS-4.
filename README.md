@@ -42,14 +42,6 @@ This project is a **Freelance Marketplace Web Application** built using:
 - Started working with **GitHub Actions** but couldn't complete it.
 - Faced issues with **Dockerizing the application** for deployment.
 
-### ❌ **Full Authentication System**
-- JWT authentication **partially works**, but **password hashing & user sessions** are not fully implemented.
-- **Login system works** but doesn’t store session properly.
-
-### ❌ **Frontend Testing**
-- Jest was configured, but encountered errors with **ECMAScript modules & Babel presets**.
-- **Cypress testing** for end-to-end (E2E) tests was **not completed**.
-
 ### ❌ **Deployment**
 - Backend **was not deployed** on AWS/GCP due to time constraints.
 - **Dockerfile & Kubernetes configs are incomplete**.
